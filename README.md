@@ -3,4 +3,4 @@
 > This app generate random number for gacha waifu. so test your luck.
 
 ## Screenshot
-![Screenshot 1](/screenshot/1.jpg?raw=true "Screenshot 1")
+![Screenshot 1](/screenshot/1.jpg "Screenshot 1")
