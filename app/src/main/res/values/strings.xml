@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Waifu Gacha</string>
+    <string name="gacha">Gacha!</string>
+    <string name="albedo">Albedo</string>
+    <string name="kanade">Kanade</string>
+    <string name="kaori">Miyazono Kaori</string>
+    <string name="komi">Komi Shouko</string>
+    <string name="makima">Makima</string>
+    <string name="nadeshiko">Nadeshiko</string>
+    <string name="kani">Kani Nayuta</string>
+    <string name="tadano">Tadano Hitohito</string>
+    <string name="placeholder">Gacha dulu bang!</string>
+</resources>
